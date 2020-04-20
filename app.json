@@ -7,5 +7,4 @@
   "repository": "https://github.com/vtfridaygithub/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
-  ]
-}
+  ]}
